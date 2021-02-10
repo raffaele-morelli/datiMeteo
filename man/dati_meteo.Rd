@@ -3,7 +3,7 @@
 \docType{data}
 \name{dati_meteo}
 \alias{dati_meteo}
-\title{Data of nominal brown shrimp prices by size}
+\title{Dati meteorologici per le stazioni valide}
 \format{
 A tibble with 243 rows and 10 variables:
 \describe{
@@ -37,6 +37,6 @@ A tibble with 243 rows and 10 variables:
 dati_meteo
 }
 \description{
-Shrimp are classified by size, 0-15 shrimp per pound, 15-20 shrimp per pound, etc. A smaller number per pound indicates larger shrimp. Nominal prices are total monthly value of brown shrimp andings within size class divided by total monthly landings within the size class.
+Dati meteorologici per le stazioni valide
 }
 \keyword{datasets}
