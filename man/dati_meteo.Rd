@@ -7,16 +7,27 @@
 \format{
 A tibble with 243 rows and 10 variables:
 \describe{
-\item{Year}{dbl Year price was recorded}
-\item{Month}{dbl Month price was recorded. Ranges from 1-12 for January - December}
-\item{\code{0-15}}{dbl denoting monthly price for the 0-15/lb. size class}
-\item{\code{15-20}}{dbl denoting monthly price for the 15-20/lb. size class}
-\item{\code{20-25}}{dbl denoting monthly price for the 20-25/lb. size class}
-\item{\code{25-30}}{dbl denoting monthly price for the 25-30/lb. size class}
-\item{\code{30-40}}{dbl denoting monthly price for the 30-40/lb. size class}
-\item{\code{40-50}}{dbl denoting monthly price for the 40-50/lb. size class}
-\item{\code{50-67}}{dbl denoting monthly price for the 50-67/lb. size class}
-\item{Pieces}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+\item{station_code}{chr codice stazione}
+\item{station_eu_code}{chr codice europeo della stazione}
+\item{date}{date data}
+\item{t2m}{dbl temperatura media a 2m}
+\item{tmin2m}{dbl temperatura minima a 2m}
+\item{tmax2m}{dbl temperatura massima a 2m}
+\item{tp}{dbl precipitazione totale}
+\item{ptp}{dbl precipitazione totale del giorno precedente}
+\item{rh}{dbl umidità relativa}
+\item{u10m}{dbl componente U per la direzione del vento}
+\item{v10m}{dbl componente V per la direzione del vento}
+\item{sp}{dbl pressione}
+\item{nirradiance}{dbl net radiance}
+\item{pbl00}{dbl Planet Boundary Layer ore 00}
+\item{pbl12}{dbl Planet Boundary Layer ore 12	}
+\item{pblmin}{dbl Planet Boundary Layer daily minimum	}
+\item{pblmax}{dbl Planet Boundary Layer daily maximum	}
+\item{coordx}{dbl latitudine EPSG:32632  (WGS84 UTM32)}
+\item{coordy}{dbl longitudine EPSG:32632  (WGS84 UTM32)}
+\item{altitude}{chr}
+\item{altitudedem}{chr}
 }
 }
 \source{
