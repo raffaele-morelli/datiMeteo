@@ -5,7 +5,7 @@
 \alias{stazioniMeteo}
 \title{Anagrafica delle stazioni ricavata dal dataset dei dati meteorologici}
 \format{
-A tibble with 243 rows and 10 variables:
+A tibble:
 \describe{
 \item{station_eu_code}{char codice europeo della stazione}
 \item{coordx}{dbl latitudine EPSG:32632 (WGS84 UTM32)}

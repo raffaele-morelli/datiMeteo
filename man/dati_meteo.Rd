@@ -5,7 +5,7 @@
 \alias{dati_meteo}
 \title{Dati meteorologici per le stazioni valide}
 \format{
-A tibble with 243 rows and 10 variables:
+A tibble:
 \describe{
 \item{station_code}{chr codice stazione}
 \item{station_eu_code}{chr codice europeo della stazione}
