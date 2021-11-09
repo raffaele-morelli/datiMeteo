@@ -6,9 +6,7 @@
 \alias{datiMeteo-package}
 \title{datiMeteo: I dati per gli inquinanti atmosferici del progetto Pulvirus}
 \description{
-Il pacchetto contiene le serie storiche dei dati meteo.
-    Contiene inoltre l'anagrafica delle stazioni di monitoraggio ritenute valide secondo i criteri stabiliti. 
-    Una overview del contenuto si ottiene con data(package = "datiMeteo").
+Il pacchetto contiene le serie storiche dei dati meteo. Contiene inoltre l'anagrafica delle stazioni di monitoraggio ritenute valide secondo i criteri stabiliti. Una overview del contenuto si ottiene con data(package = "datiMeteo").
 }
 \author{
 \strong{Maintainer}: Raffaele Morelli \email{raffaele.morelli@isprambiente.it} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
