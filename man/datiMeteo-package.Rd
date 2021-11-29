@@ -4,7 +4,7 @@
 \name{datiMeteo-package}
 \alias{datiMeteo}
 \alias{datiMeteo-package}
-\title{datiMeteo: I dati per gli inquinanti atmosferici del progetto Pulvirus}
+\title{datiMeteo: I dati meteo del progetto Pulvirus}
 \description{
 Il pacchetto contiene le serie storiche dei dati meteo. Contiene inoltre l'anagrafica delle stazioni di monitoraggio ritenute valide secondo i criteri stabiliti. Una overview del contenuto si ottiene con data(package = "datiMeteo").
 }
